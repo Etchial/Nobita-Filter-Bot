@@ -1,7 +1,7 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/Ethical/Nobita-Filter-Bot/tree/advance.git /Nobita-Filter-Bot
+  git clone https://github.com/Etchial/Nobita-Filter-Bot.git /Nobita-Filter-Bot
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /Nobita-Filter-Bot
