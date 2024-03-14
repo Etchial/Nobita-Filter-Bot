@@ -897,12 +897,12 @@ async def deletemultiplefiles(bot, message):
 @Client.on_message(filters.command("set_shortlink"))
 async def shortlink(bot, message):
     btn = [[
-        InlineKeyboardButton(text="ʀᴇᴘᴏ", """
- ɴᴏᴛᴇ:
- - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ. ɪᴛ ɪs ᴇᴅɪᴛᴇᴅ ᴀɴᴅ ᴍᴏᴅɪғɪᴇᴅ.
- - ꜱᴏᴜʀᴄᴇ - ʜᴇʀᴇ (http://t.me/MovieVillaOriginalContactBot)
- Dᴇᴠᴇʟᴏᴘᴇʀ:
- - ᴍᴏᴠɪᴇ ᴠɪʟʟᴀ ᴏʀɪɢɪɴᴀʟ (http://t.me/MovieVillaOriginalContactBot) """),
+        InlineKeyboardButton("ʀᴇᴘᴏ", """
+ɴᴏᴛᴇ:
+- ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ. ɪᴛ ɪs ᴇᴅɪᴛᴇᴅ ᴀɴᴅ ᴍᴏᴅɪғɪᴇᴅ.
+- ꜱᴏᴜʀᴄᴇ - ʜᴇʀᴇ (http://t.me/MovieVillaOriginalContactBot)
+Dᴇᴠᴇʟᴏᴘᴇʀ:
+- ᴍᴏᴠɪᴇ ᴠɪʟʟᴀ ᴏʀɪɢɪɴᴀʟ (http://t.me/MovieVillaOriginalContactBot) """),
         InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url="https://t.me/MovieVillaOriginalContactBot")
         ],[
         InlineKeyboardButton(text="ᴀᴅᴅ  ʏᴏᴜʀ  ꜱʜᴏʀᴛɴᴇʀ", url="http://telegram.me/MovieFileSearch_Robot?startgroup=true")
