@@ -897,7 +897,7 @@ async def deletemultiplefiles(bot, message):
 @Client.on_message(filters.command("set_shortlink"))
 async def shortlink(bot, message):
     btn = [[
-        InlineKeyboardButton(text="ʀᴇᴘᴏ", text ="""
+        InlineKeyboardButton(text="ʀᴇᴘᴏ", """
 ɴᴏᴛᴇ:
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ. ɪᴛ ɪs ᴇᴅɪᴛᴇᴅ ᴀɴᴅ ᴍᴏᴅɪғɪᴇᴅ.
 - ꜱᴏᴜʀᴄᴇ - ʜᴇʀᴇ (http://t.me/MovieVillaOriginalContactBot)
