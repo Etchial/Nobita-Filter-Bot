@@ -995,7 +995,7 @@ async def ginfo(bot, message):
 @Client.on_message(filters.command("set_tutorial"))
 async def tutorial(bot, message):
     btn = [[
-        InlineKeyboardButton(text="ʀᴇᴘᴏ", text="""
+        InlineKeyboardButton("ʀᴇᴘᴏ", """
                              ɴᴏᴛᴇ:
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ. ɪᴛ ɪs ᴇᴅɪᴛᴇᴅ ᴀɴᴅ ᴍᴏᴅɪғɪᴇᴅ.
 - ꜱᴏᴜʀᴄᴇ - ʜᴇʀᴇ (http://t.me/MovieVillaOriginalContactBot)
