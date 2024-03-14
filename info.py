@@ -15,7 +15,7 @@ def is_enabled(value, default):
         return default
 
 # Bot information
-SESSION = environ.get('SESSION', 'Media_searc')
+SESSION = environ.get('SESSION', 'Media_search')
 API_ID = int(environ.get('API_ID'))
 API_HASH = environ.get('API_HASH')
 BOT_TOKEN = environ.get('BOT_TOKEN')
@@ -24,10 +24,10 @@ BOT_TOKEN = environ.get('BOT_TOKEN')
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
-PICS = (environ.get('PICS', 'https://telegra.ph/file/61ef9818986cef9554017.jpg https://telegra.ph/file/4696ff67a5bae3ea92c14.jpg')).split()
-NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/61ef9818986cef9554017.jpg")
-MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/61ef9818986cef9554017.jpg")
-SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/61ef9818986cef9554017.jpg")
+PICS = (environ.get('PICS', 'https://telegra.ph/file/e216d8e954b86f07be8b2.jpg https://telegra.ph/file/3fb8535f4387fa4835c5a.jpg')).split()
+NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/3fb8535f4387fa4835c5a.jpg")
+MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/3fb8535f4387fa4835c5a.jpg")
+SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/3fb8535f4387fa4835c5a.jpg")
 
 # Admins, Channels & User
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '').split()]
@@ -62,7 +62,7 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "Nobideveloper")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # stickers
-STICKERS = (environ.get('STICKERS', 'CAACAgUAAxkBAAIKqWP81BZ6YnpWEFoF_4JPR0EbjsO3AAIvBwACnMjpV9YvaONl41IBHgQ CAACAgUAAxkBAAIKrmP81GnWQ0d_BAZhre0dMc5SwJKOAAJ0DgACgr3gVwrjYuxSJxn7HgQ')).split()
+STICKERS = (environ.get('STICKERS', 'CAACAgIAAxkBAAKHQmXym7EfnH36Q-ld7bMxFqJBsAaNAAKVQQACxpyYSxsljEqJItidNAQ')).split()
 
 # FSUB
 auth_channel = environ.get('AUTH_CHANNEL')
@@ -89,16 +89,16 @@ DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in enviro
 MAX_B_TN = environ.get("MAX_B_TN", "8")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
-S_GROUP = environ.get('S_GROUP',"https://telegram.me/NobiDeveloperSupport")
-RUL_LNK = environ.get('RUL_LNK',"https://graph.org/%F0%9D%97%A0%F0%9D%9E%93%F0%9D%97%A6%F0%9D%97%A7%F0%9D%9E%9D%F0%9D%97%A5-02-15")
-MAIN_CHANNEL = environ.get('MAIN_CHANNEL',"https://telegram.me/NobiDeveloper")
-GRP_LNK = environ.get('GRP_LNK', 'https://telegram.me/NobiDeveloperSupport')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://telegram.me/NobiDeveloper')
-OWN_LNK = environ.get('S_GROUP',"https://telegram.me/NobiDeveloperr")
-MVG_LNK = environ.get('S_GROUP',"https://telegram.me/AllRequestGroups")
+S_GROUP = environ.get('S_GROUP',"https://t.me/MovieVillaOriginalDiscussion")
+RUL_LNK = environ.get('RUL_LNK',"https://t.me/MovieVillaOriginalDiscussion/6675")
+MAIN_CHANNEL = environ.get('MAIN_CHANNEL',"https://t.me/Movie_villa_original")
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/MovieVillaOriginalDiscussion')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Movie_villa_original')
+OWN_LNK = environ.get('S_GROUP',"https://t.me/MovieVillaOriginalDiscussion")
+MVG_LNK = environ.get('S_GROUP',"https://t.me/MovieVillaOriginalDiscussion")
 MSG_ALRT = environ.get('MSG_ALRT', 'ꜱʜᴀʀᴇ  ᴀɴᴅ  ꜱᴜᴘᴘᴏʀᴛ  ᴜꜱ')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', ''))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'NobiDeveloperSupport')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'MovieVillaOriginalDiscussion')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 IMDB = is_enabled((environ.get('IMDB', "False")), False)
 AUTO_FFILTER = is_enabled((environ.get('AUTO_FFILTER', "True")), True)

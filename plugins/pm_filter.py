@@ -64,7 +64,7 @@ async def give_filter(client, message):
                     text=f"<b>{message.from_user.mention},</b>\n\n({str(total_results)}) ʀᴇsᴜʟᴛ ᴀʀᴇ ꜰᴏᴜɴᴅ ɪɴ ᴍʏ ᴅᴀᴛᴀʙᴀsᴇ ꜰᴏʀ ʏᴏᴜʀ sᴇᴀʀᴄʜ [{search}]",
                     reply_markup=InlineKeyboardMarkup(
                         [[
-                            InlineKeyboardButton('✧ ᴛᴀᴋᴇ ᴍᴏᴠɪᴇ ꜰʀᴏᴍ ʜᴇʀᴇ ✧', url ='https://telegram.me/AllRequestGroups')
+                            InlineKeyboardButton('✧ ᴛᴀᴋᴇ ᴍᴏᴠɪᴇ ꜰʀᴏᴍ ʜᴇʀᴇ ✧', url ='https://t.me/MovieVillaOriginalDiscussion')
                         ]]
                     )
                 )
@@ -440,7 +440,7 @@ async def filter_languages_cb_handler(client: Client, query: CallbackQuery):
             )
 
     btn.insert(0, [
-        InlineKeyboardButton(f'⛔️  sᴜʙsᴄʀɪʙᴇ ᴏᴜʀ ʏᴛ ᴄʜᴀɴɴᴇʟ ​ ⛔️', url='https://youtube.com/@NobiDeveloper')
+        InlineKeyboardButton(f'⛔️  sᴜʙsᴄʀɪʙᴇ ᴏᴜʀ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ​ ⛔️', url='https://t.me/Movie_villa_original')
     ])
     offset = 0
 
@@ -705,7 +705,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton("🔰  ᴊᴏɪɴ ꜰᴏʀ ᴍᴏᴠɪᴇs​  🔰", url="https://telegram.me/AllRequestGroups")
+                          InlineKeyboardButton("🔰  ᴊᴏɪɴ ꜰᴏʀ ᴍᴏᴠɪᴇs​  🔰", url="https://t.me/MovieVillaOriginalDiscussion")
                          ]
                         ]
                     )
@@ -772,7 +772,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                  InlineKeyboardButton('❤️‍🔥 ᴄʜᴀɴɴᴇʟ​ ❤️‍🔥​', url='https://telegram.me/NobiDeveloper')
+                  InlineKeyboardButton('❤️‍🔥 ᴄʜᴀɴɴᴇʟ​ ❤️‍🔥​', url='https://t.me/Movie_villa_original')
                  ]
                 ]
             )
@@ -1158,13 +1158,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
     elif query.data == "group_info":
         buttons = [[
-            InlineKeyboardButton('ꜱᴜʙꜱᴄʀɪʙᴇ  ᴍʏ  ʏᴛ  ᴄʜᴀɴɴᴇʟ', url="https://youtube.com/@NobiDeveloper"),
+            InlineKeyboardButton('ꜱᴜʙꜱᴄʀɪʙᴇ ᴏᴜʀ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ', url="https://t.me/Movie_villa_original"),
         ],[
-            InlineKeyboardButton('ɢʀᴏᴜᴘ', url="https://telegram.me/AllRequestGroups"),
-            InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url="https://telegram.me/NobiDeveloper")
+            InlineKeyboardButton('ɢʀᴏᴜᴘ', url="https://t.me/MovieVillaOriginalDiscussion"),
+            InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url="https://t.me/Movie_villa_original")
         ],[
-            InlineKeyboardButton('ꜱᴜᴘᴘᴏʀᴛ', url="https://telegram.me/NobiDeveloperSupport"),
-            InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇꜱ', url="https://telegram.me/MovieVillaYT")
+            InlineKeyboardButton('ꜱᴜᴘᴘᴏʀᴛ', url="https://t.me/MovieVillaOriginalDiscussion"),
+            InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇꜱ', url="https://t.me/Movie_villa_original")
         ],[
             InlineKeyboardButton('ʙᴀᴄᴋ​', callback_data='start')
         ]]
@@ -1214,8 +1214,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "support_group":
         buttons = [[
-           InlineKeyboardButton('ᴏᴡɴᴇʀ', url='https://telegram.me/NobiDeveloperr'),
-           InlineKeyboardButton('ꜱᴜᴘᴘᴏʀᴛ', url='https://telegram.me/NobiDeveloperSupport')
+           InlineKeyboardButton('ᴏᴡɴᴇʀ', url='https://t.me/MovieVillaOriginalContactBot'),
+           InlineKeyboardButton('ꜱᴜᴘᴘᴏʀᴛ', url='https://t.me/MovieVillaOriginalDiscussion')
         ], [
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='start')
         ]]
@@ -1426,12 +1426,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ꜱᴛᴀᴛᴜꜱ', callback_data='stats'),
             InlineKeyboardButton('ᴅɪꜱᴄʟᴀɪᴍᴇʀ', callback_data='source')
         ],[
-            InlineKeyboardButton('ꜱᴜʙꜱᴄʀɪʙᴇ  ᴍʏ  ʏᴛ  ᴄʜᴀɴɴᴇʟ', url='https://youtube.com/@NobiDeveloper')
+            InlineKeyboardButton('ꜱᴜʙꜱᴄʀɪʙᴇ ᴏᴜʀ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ', url='https://t.me/Movie_villa_original')
         ],[
-            InlineKeyboardButton('ʀᴇᴘᴏʀᴛ  ʙᴜɢꜱ  ᴀɴᴅ  ꜰᴇᴇᴅʙᴀᴄᴋ', url='https://telegram.me/NobiDeveloperSupport')
+            InlineKeyboardButton('ʀᴇᴘᴏʀᴛ  ʙᴜɢꜱ  ᴀɴᴅ  ꜰᴇᴇᴅʙᴀᴄᴋ', url='https://t.me/MovieVillaOriginalContactBot')
         ],[
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='start'),
-            InlineKeyboardButton('ɴᴇxᴛ', url='https://telegram.me/AllRequestGroups')
+            InlineKeyboardButton('ɴᴇxᴛ', url='https://t.me/MovieVillaOriginalDiscussion')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await client.edit_message_media(
@@ -1811,8 +1811,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "deploy":
         buttons = [[
-           InlineKeyboardButton('ʀᴇᴘᴏ', url='https://github.com/NobiDeveloper/Nobita-Filter-Bot'),
-           InlineKeyboardButton('ᴏᴡɴᴇʀ', url='https://telegram.me/NobiDeveloperr')
+           InlineKeyboardButton('ʀᴇᴘᴏ', '''
+                                ɴᴏᴛᴇ:
+- ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ. ɪᴛ ɪs ᴇᴅɪᴛᴇᴅ ᴀɴᴅ ᴍᴏᴅɪғɪᴇᴅ.
+- ꜱᴏᴜʀᴄᴇ - ʜᴇʀᴇ (http://t.me/MovieVillaOriginalContactBot)
+Dᴇᴠᴇʟᴏᴘᴇʀ:
+- ᴍᴏᴠɪᴇ ᴠɪʟʟᴀ ᴏʀɪɢɪɴᴀʟ (http://t.me/MovieVillaOriginalContactBot)'''),
+           InlineKeyboardButton('ᴏᴡɴᴇʀ', url='https://t.me/MovieVillaOriginalContactBot')
         ], [
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='help2')
         ]]
@@ -1925,7 +1930,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton("💶    ᴘʟᴇᴀsᴇ  ᴅᴏɴᴀᴛᴇ    💶", url="https://telegra.ph/SUPPORT-12-22-2")
                  ],[
                     InlineKeyboardButton("ʙᴀᴄᴋ", callback_data="start"),
-                    InlineKeyboardButton("ᴄʟᴏsᴇ", url="https://telegram.me/AllRequestGroups")
+                    InlineKeyboardButton("ᴄʟᴏsᴇ", url="https://t.me/MovieVillaOriginalDiscussion")
                   ]]
             reply_markup = InlineKeyboardMarkup(btn)
             await client.edit_message_media(
@@ -2201,7 +2206,7 @@ async def auto_filter(client, msg, spoll=False):
             **locals()
         )
     else:
-        cap = f"<b>🎪 ᴛɪᴛɪʟᴇ :  {search}\n\n┏ 🤴 ᴀsᴋᴇᴅ ʙʏ : {message.from_user.mention}\n┣⚡ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href='https://telegram.me/NobiDeveloper'>ɴᴏʙɪᴛᴀ​</a>\n┗🍁 ᴄʜᴀɴɴᴇʟ : <a href='https://telegram.me/MovieVillaYT'>ᴍᴏᴠɪᴇᴠɪʟʟᴀ</a>\n\n⚠️  ᴀꜰᴛᴇʀ 10 ᴍɪɴᴜᴛᴇꜱ ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ᴡɪʟʟ ʙᴇ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴅᴇʟᴇᴛᴇᴅ  🗑️\n\n❇️ ʙʏ : {message.chat.title}</b>"
+        cap = f"<b>🎪 ᴛɪᴛɪʟᴇ :  {search}\n\n┏ 🤴 ᴀsᴋᴇᴅ ʙʏ : {message.from_user.mention}\n┣⚡ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href='https://t.me/Movie_villa_original'>ᴍᴏᴠɪᴇ ᴠɪʟʟᴀ ᴏʀɪɢɪɴᴀʟ​</a>\n┗🍁 ᴄʜᴀɴɴᴇʟ : <a href='https://t.me/Movie_villa_original'>ᴍᴏᴠɪᴇ ᴠɪʟʟᴀ ᴏʀɪɢɪɴᴀʟ</a>\n\n⚠️  ᴀꜰᴛᴇʀ 10 ᴍɪɴᴜᴛᴇꜱ ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ᴡɪʟʟ ʙᴇ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴅᴇʟᴇᴛᴇᴅ  🗑️\n\n❇️ ʙʏ : {message.chat.title}</b>"
     if imdb and imdb.get('poster'):
         try:
             hehe = await message.reply_photo(photo=imdb.get('poster'), caption=cap[:1024], reply_markup=InlineKeyboardMarkup(btn))
