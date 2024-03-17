@@ -214,9 +214,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 
 <b>᚜ ᴘᴀʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅs ᚛</b>
 
-💵 <a href='https://telegra.ph/SUPPORT-12-22-2'>𝗚𝗼𝗼𝗴𝗹𝗲 𝗣𝗮𝘆</a>
-💸 <a href='https://telegra.ph/SUPPORT-12-22-2'>𝗣𝗮𝘆𝘁𝗺</a>
-💶 <a href='https://telegra.ph/SUPPORT-12-22-2'>𝗣𝗵𝗼𝗻𝗲𝗣𝗲</a>
+💵 <a href='https://telegra.ph/SUPPORT-03-14-4'>𝗚𝗼𝗼𝗴𝗹𝗲 𝗣𝗮𝘆</a>
+💸 <a href='https://telegra.ph/SUPPORT-03-14-4'>𝗣𝗮𝘆𝘁𝗺</a>
+💶 <a href='https://telegra.ph/SUPPORT-03-14-4'>𝗣𝗵𝗼𝗻𝗲𝗣𝗲</a>
 
 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛𝐨𝐮𝐭 𝐓𝐡𝐞 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐈𝐧𝐟𝐨
 
@@ -528,17 +528,30 @@ NOTE:
  • 𝗁 = 𝗁𝗈𝗎𝗋𝗌
  • 𝖽 = 𝖽𝖺𝗒𝗌</b>"""
     GRP_TXT = """
-<b>──────「 <a href='https://telegram.me/NobiDeveloper'>ᴇᴀʀɴ ᴍᴏɴᴇʏ</a> 」──────
+<b>──────「 <a href='https://t.me/Movie_villa_original'>ᴇᴀʀɴ ᴍᴏɴᴇʏ</a> 」──────
 
 ➥ ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴇᴀʀɴ ʟᴏᴛs ᴏꜰ ᴍᴏɴᴇʏ ꜰʀᴏᴍ ᴛʜɪꜱ ʙᴏᴛ.
 
-›› sᴛᴇᴘ 𝟷 : ʏᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ ᴀᴛʟᴇᴀsᴛ ᴏɴᴇ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴍɪɴɪᴍᴜᴍ 𝟹𝟶𝟶 ᴍᴇᴍʙᴇʀs.
+ 📌 :- ʏᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ ᴀᴛʟᴇᴀsᴛ ᴏɴᴇ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴍɪɴɪᴍᴜᴍ 1𝟶𝟶 ᴍᴇᴍʙᴇʀs.
 
-›› sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ <a href='https://tnshort.net/ref/devilofficial'>ᴍᴅɪsᴋ</a> ᴏʀ <a href='https://onepagelink.in/ref/Nobita'>ᴏᴍᴇɢᴀʟɪɴᴋꜱ</a>. [ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴜsᴇ ᴏᴛʜᴇʀ sʜᴏʀᴛɴᴇʀ ᴡᴇʙsɪᴛᴇ ]
+[ ꜱᴛᴇᴘ1 ]👉ᴀᴅᴅ ʙᴏᴛ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴀʟʟ ʀɪɢʜᴛꜱ.
 
-›› sᴛᴇᴘ 𝟹 : ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href='https://telegram.me/NobiDeveloper/1063'>ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ</a>.
+[ ꜱᴛᴇᴘ 2 ]👉 ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ InstantLinks.co (https://instantlinks.co/ref/Hain948) [ʏᴏᴜ ᴄᴀɴ ᴀʟꜱᴏ ᴜꜱᴇ ᴏᴛʜᴇʀ ʟɪɴᴋ ꜱᴏʀᴛɴᴇʀ ᴡᴇʙꜱɪᴛᴇ ᴛᴏᴏ.]
 
-➥ ᴛʜɪꜱ ʙᴏᴛ ꜰʀᴇᴇ ꜰᴏʀ ᴀʟʟ ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴛʜɪꜱ ʙᴏᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘs ꜰʀᴇᴇ ᴏꜰ ᴄᴏꜱᴛ.</b>"""
+[ ꜱᴛᴇᴘ 3 ]👉 ᴄᴏᴘʏ ʏᴏᴜʀ ᴀᴘɪ ᴛᴏᴋᴇɴ ꜰʀᴏᴍ ʟɪɴᴋ ꜱᴏʀᴛɴᴇʀ ᴡᴇʙꜱɪᴛᴇ ᴅᴀꜱʜʙᴏᴀʀᴅ.
+
+[ ꜱᴛᴇᴘ 4 ] 👉ꜱᴇɴᴅ ʏᴏᴜʀ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ɪɴ ᴛʜᴇ ɢɪᴠᴇɴ ꜰᴏʀᴍᴀᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ 👇. 
+
+[ /shortlink ᴡᴇʙꜱɪᴛᴇɴᴀᴍᴇ ᴀᴘɪᴛᴏᴋᴇɴ]
+
+ᴇxᴀᴍᴘʟᴇ 👇
+/set_shortlink InstantLinks.co (https://instantlinks.co/ref/Hain948) c49399f821fc020161bc2a31475ec59f35ae5b4b
+
+ [ɴᴏᴛᴇ 👉ᴏᴜʀ ʙᴏᴛ ɪꜱ ꜰʀᴇᴇ ꜰᴏʀ ᴇᴠᴇʀʏ ᴜꜱᴇʀ ].
+
+➣ Yᴏᴜ ᴄᴀɴ ᴄᴏɴɴᴇᴄᴛ ᴀs ᴍᴀɴʏ ɢʀᴏᴜᴘ ʏᴏᴜ ʜᴀᴠᴇ.
+
+Any Doubts or Not Connecting? Contact Me.</b>"""
 
     DELF = """
 ꜱᴏʀʀʏ ᴅᴜᴅᴇ ☹,
