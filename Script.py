@@ -536,7 +536,7 @@ NOTE:
 
 [ ꜱᴛᴇᴘ1 ]👉ᴀᴅᴅ ʙᴏᴛ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴀʟʟ ʀɪɢʜᴛꜱ.
 
-[ ꜱᴛᴇᴘ 2 ]👉 ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ InstantLinks.co (https://instantlinks.co/ref/Hain948) [ʏᴏᴜ ᴄᴀɴ ᴀʟꜱᴏ ᴜꜱᴇ ᴏᴛʜᴇʀ ʟɪɴᴋ ꜱᴏʀᴛɴᴇʀ ᴡᴇʙꜱɪᴛᴇ ᴛᴏᴏ.]
+[ ꜱᴛᴇᴘ 2 ]👉 ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ < a href='https://instantlinks.co/ref/Hain948'>InstantLinks</a> [ʏᴏᴜ ᴄᴀɴ ᴀʟꜱᴏ ᴜꜱᴇ ᴏᴛʜᴇʀ ʟɪɴᴋ ꜱᴏʀᴛɴᴇʀ ᴡᴇʙꜱɪᴛᴇ ᴛᴏᴏ.]
 
 [ ꜱᴛᴇᴘ 3 ]👉 ᴄᴏᴘʏ ʏᴏᴜʀ ᴀᴘɪ ᴛᴏᴋᴇɴ ꜰʀᴏᴍ ʟɪɴᴋ ꜱᴏʀᴛɴᴇʀ ᴡᴇʙꜱɪᴛᴇ ᴅᴀꜱʜʙᴏᴀʀᴅ.
 
@@ -545,7 +545,7 @@ NOTE:
 [ /shortlink ᴡᴇʙꜱɪᴛᴇɴᴀᴍᴇ ᴀᴘɪᴛᴏᴋᴇɴ]
 
 ᴇxᴀᴍᴘʟᴇ 👇
-/set_shortlink InstantLinks.co (https://instantlinks.co/ref/Hain948) c49399f821fc020161bc2a31475ec59f35ae5b4b
+/set_shortlink < a href='https://instantlinks.co/ref/Hain948'>InstantLinks.co</a> c49399f821fc020161bc2a31475ec59f35ae5b4b
 
  [ɴᴏᴛᴇ 👉ᴏᴜʀ ʙᴏᴛ ɪꜱ ꜰʀᴇᴇ ꜰᴏʀ ᴇᴠᴇʀʏ ᴜꜱᴇʀ ].
 
