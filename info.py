@@ -78,12 +78,12 @@ TEXT = environ.get("APPROVED_WELCOME_TEXT", "<b>{mention},\n\nʏᴏᴜʀ ʀᴇǫ
 APPROVED = environ.get("APPROVED_WELCOME", "off").lower()
 
 # Others
-IS_VERIFY = bool(environ.get('IS_VERIFY', ))
-VERIFY2_URL = environ.get('VERIFY2_URL', )
-VERIFY2_API = environ.get('VERIFY2_API', )
-SHORTLINK_URL = environ.get('SHORTLINK_URL','')
-SHORTLINK_API = environ.get('SHORTLINK_API', '' )
-IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', ))
+IS_VERIFY = bool(environ.get('IS_VERIFY', False))
+VERIFY2_URL = environ.get('VERIFY2_URL', "instantlinks.co" )
+VERIFY2_API = environ.get('VERIFY2_API', "33831c7b03c31aaa75db158e6428c0425d3fb483")
+SHORTLINK_URL = environ.get('SHORTLINK_URL','onepagelink.in')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'ae146c90adf70319932541d00d702cae2bf98e4e' )
+IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 NO_RESULTS_MSG = bool(environ.get('NO_RESULTS_MSG', True))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "8")
